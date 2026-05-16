@@ -1,0 +1,35 @@
+- id: 129593
+  name: Polystyrene
+
+- id: 1413
+  name: Polystyrene_785nm
+
+- id: 1436
+  name: Polystyrene_532nm_50prc
+
+- id: 1830
+  name: Polystyrene_532nm_100prc
+
+- id: 137123
+  name: Polyethylene
+
+- id: 132628
+  name: Polyethylene_Glycol
+
+- id: 132674
+  name: Polypropylene_Glycol
+
+- id: 136172
+  name: Polypropylene_Chlorinated
+
+- id: 132578
+  name: Polyvinylidene_Fluoride
+
+- id: 137124
+  name: Polyvinyl_Alcohol 
+
+- id: 137128
+  name: Polyvinyl_Acetate
+
+- id: 137174
+  name: Polyvinyl_Cinnamate
