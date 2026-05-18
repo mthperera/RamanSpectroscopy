@@ -1,35 +1,23 @@
-- id: 129593
-  name: Polystyrene
+- id: 161779
+  name: Poliisopreno_trans_633nm
 
-- id: 1413
-  name: Polystyrene_785nm
+- id: 161780
+  name: PVA_mediaMM
 
-- id: 1436
-  name: Polystyrene_532nm_50prc
+- id: 161781
+  name: PVA_altaMM
 
-- id: 1830
-  name: Polystyrene_532nm_100prc
+- id: 161782
+  name: PE_glicol_mm4000
 
-- id: 137123
-  name: Polyethylene
+- id: 161783
+  name: PE_glicol_mm10000
 
-- id: 132628
-  name: Polyethylene_Glycol
+- id: 161784
+  name: CeraDePolietileno-785nm
 
-- id: 132674
-  name: Polypropylene_Glycol
+- id: 161785
+  name: CeraDePolietileno-633nm
 
-- id: 136172
-  name: Polypropylene_Chlorinated
-
-- id: 132578
-  name: Polyvinylidene_Fluoride
-
-- id: 137124
-  name: Polyvinyl_Alcohol 
-
-- id: 137128
-  name: Polyvinyl_Acetate
-
-- id: 137174
-  name: Polyvinyl_Cinnamate
+- id: 161786
+  name: Poliisopreno_trans_785nm
